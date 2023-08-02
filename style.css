@@ -1,0 +1,72 @@
+#div1{
+    height: 200px;
+    border: 10px dotted black;
+    background-image: url(image/starboy.jpg);
+    background-repeat: no-repeat;
+    background-size: 110px;
+    background-size: padding box;
+    background-color: dimgrey;
+    background-clip: padding-box;
+}
+#div2{
+     height: 200px;
+    border: 10px dashed black;
+    background-image: url(image/starboy1.jpg);
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-size: padding box;
+    background-color: royalblue;
+    background-clip: padding-box;
+    
+}
+
+#div3{
+     height: 200px;
+    border: 10px double black;
+    background-image: url(image/download.png);
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-size: content box;
+    background-color: springgreen;
+    background-clip: content-box;
+}
+#div4{
+     height: 300px;
+    border: 10px solid black;
+    background-image: url(image/st.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-size: content box;
+    
+    background-clip: content-box;
+     
+}
+#div5
+{
+    height:200px;
+    width: 200px;
+    border: 2px solid red;
+    margin:auto;
+} p{
+        border: 2px solid black;
+    margin:10px 5px 10px 5px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
